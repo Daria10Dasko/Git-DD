@@ -96,3 +96,5 @@ $ git checkout master
 ```
 $ git merge
 ```
+
+## 12. Как удалять ветки в Git?
